@@ -1,3 +1,3 @@
 # maven
 poll scm
-git trigger
+trigger
